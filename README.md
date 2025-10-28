@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andreaveca
-- 🌱 I’m currently learning Django
+- 🌱 WIP
 
 
 <!---
